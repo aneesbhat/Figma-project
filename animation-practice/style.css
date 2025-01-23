@@ -1,0 +1,18 @@
+.main {
+    width:1170px;
+    margin:auto;
+    padding:40px 0px;
+    border:1px solid red;
+    display:grid;
+    justify-content:center;
+    gap:20px;
+    grid-template-columns:200px 200px 200px;
+
+}
+
+.inner h2 {
+    border:3px solid salmon;
+}
+
+
+

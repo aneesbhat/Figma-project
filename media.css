@@ -1,0 +1,123 @@
+@media only screen and (min-width:200px) and (max-width:575px) {
+    .mid {
+        
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    /* .whatsapp-btn {
+        position:fixed;
+        background-color:white;
+        z-index:99;
+        bottom:0px;
+        left: 50px;;
+    }
+
+    .call-btn {
+        position:fixed;
+        z-index:99;
+        bottom:0px;
+        right:50px;
+    } */
+
+    .banner-mid-content{
+        flex-direction:column;
+        text-align:center;
+        gap:15px;
+    }
+
+    .demo-btn {
+        padding:10px 15px;
+    }
+
+    .curr {
+        padding:10px 20px;
+    }
+
+    .banner-left-btn {
+        justify-content:center;
+    }
+
+    .form-part {
+        left:35px;
+    }
+
+    .Name {
+        margin-left:0px;
+    }
+
+    
+
+    .phone-inner {
+        left:85px;
+    }
+
+    .section-1-lower {
+        flex-wrap:wrap;
+    }
+
+    .content {
+        flex-basis:30%;
+        margin:1.5%;
+    }
+
+    .sec-2mid {
+        text-align:center;
+    }
+
+    .mid-box {
+        flex-wrap:wrap;
+    }
+
+    .main-box {
+        flex-basis:47%;
+        margin:1.5%;
+    }
+
+    .sec-3mid {
+        
+    }
+
+    .box-main {
+        flex-basis:47%;
+    }
+
+    .mid-4 {
+        flex-direction:column;
+    }
+
+    .sec-5mid2 {
+        flex-wrap:wrap;
+        justify-content:center;
+    }
+
+    .sec-5mid2 h3 {
+        flex-basis:33%;
+    }
+
+    .btn-curr {
+        margin:35px 100px;
+    }
+
+    .mid-6-1 h2 {
+        text-align:center;
+    }
+
+    .mid-6-1 p {
+        text-align:center;
+    }
+
+    .box-main {
+        width:100%;
+    }
+
+    .mid-6-2 {
+        flex-direction:column;
+        width:100%;
+        align-items:center;
+    }
+
+    .companies {
+        object-fit:cover;
+    }
+}
